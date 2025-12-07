@@ -1,0 +1,328 @@
+{
+  "analysis_date": "2025-12-08T04:19:23.656573",
+  "keywords_analyzed": [
+    "smart fan",
+    "smart fan India",
+    "ceiling fan",
+    "energy efficient fan",
+    "best ceiling fan 2025",
+    "Atomberg fan review"
+  ],
+  "total_videos_analyzed": 175,
+  "keyword_results": {
+    "smart fan": {
+      "Atomberg": {
+        "mention_share": 53.33,
+        "engagement_share": 97.49,
+        "positive_sentiment_share": 38.67,
+        "composite_sov": 66.6,
+        "total_mentions": 16,
+        "total_engagement": 26645401
+      },
+      "Orient": {
+        "mention_share": 10.0,
+        "engagement_share": 2.08,
+        "positive_sentiment_share": 81.64,
+        "composite_sov": 28.33,
+        "total_mentions": 3,
+        "total_engagement": 569075
+      },
+      "Havells": {
+        "mention_share": 3.33,
+        "engagement_share": 0.43,
+        "positive_sentiment_share": 100.0,
+        "composite_sov": 31.17,
+        "total_mentions": 1,
+        "total_engagement": 116984
+      },
+      "Usha": {
+        "mention_share": 3.33,
+        "engagement_share": 1.38,
+        "positive_sentiment_share": 0.0,
+        "composite_sov": 1.55,
+        "total_mentions": 1,
+        "total_engagement": 377029
+      }
+    },
+    "smart fan India": {
+      "Atomberg": {
+        "mention_share": 66.67,
+        "engagement_share": 88.15,
+        "positive_sentiment_share": 35.19,
+        "composite_sov": 65.82,
+        "total_mentions": 20,
+        "total_engagement": 28312971
+      },
+      "Orient": {
+        "mention_share": 23.33,
+        "engagement_share": 6.68,
+        "positive_sentiment_share": 20.74,
+        "composite_sov": 15.89,
+        "total_mentions": 7,
+        "total_engagement": 2146960
+      },
+      "Havells": {
+        "mention_share": 16.67,
+        "engagement_share": 4.42,
+        "positive_sentiment_share": 0.24,
+        "composite_sov": 6.84,
+        "total_mentions": 5,
+        "total_engagement": 1418574
+      },
+      "Usha": {
+        "mention_share": 3.33,
+        "engagement_share": 1.17,
+        "positive_sentiment_share": 0.0,
+        "composite_sov": 1.47,
+        "total_mentions": 1,
+        "total_engagement": 377034
+      },
+      "Crompton": {
+        "mention_share": 16.67,
+        "engagement_share": 7.87,
+        "positive_sentiment_share": 0.0,
+        "composite_sov": 8.15,
+        "total_mentions": 5,
+        "total_engagement": 2527940
+      }
+    },
+    "ceiling fan": {
+      "Crompton": {
+        "mention_share": 16.67,
+        "engagement_share": 56.29,
+        "positive_sentiment_share": 0.02,
+        "composite_sov": 27.52,
+        "total_mentions": 5,
+        "total_engagement": 14619445
+      },
+      "Atomberg": {
+        "mention_share": 10.0,
+        "engagement_share": 20.68,
+        "positive_sentiment_share": 0.0,
+        "composite_sov": 11.27,
+        "total_mentions": 3,
+        "total_engagement": 5371364
+      },
+      "Orient": {
+        "mention_share": 10.0,
+        "engagement_share": 3.69,
+        "positive_sentiment_share": 4.81,
+        "composite_sov": 5.92,
+        "total_mentions": 3,
+        "total_engagement": 957112
+      },
+      "Havells": {
+        "mention_share": 13.33,
+        "engagement_share": 4.67,
+        "positive_sentiment_share": 27.94,
+        "composite_sov": 14.25,
+        "total_mentions": 4,
+        "total_engagement": 1213701
+      },
+      "Usha": {
+        "mention_share": 3.33,
+        "engagement_share": 10.45,
+        "positive_sentiment_share": 0.0,
+        "composite_sov": 5.18,
+        "total_mentions": 1,
+        "total_engagement": 2712910
+      },
+      "Bajaj": {
+        "mention_share": 10.0,
+        "engagement_share": 13.72,
+        "positive_sentiment_share": 31.17,
+        "composite_sov": 17.84,
+        "total_mentions": 3,
+        "total_engagement": 3564521
+      }
+    },
+    "energy efficient fan": {
+      "Crompton": {
+        "mention_share": 20.0,
+        "engagement_share": 8.73,
+        "positive_sentiment_share": 19.01,
+        "composite_sov": 15.2,
+        "total_mentions": 6,
+        "total_engagement": 743839
+      },
+      "Havells": {
+        "mention_share": 23.33,
+        "engagement_share": 33.8,
+        "positive_sentiment_share": 99.8,
+        "composite_sov": 50.46,
+        "total_mentions": 7,
+        "total_engagement": 2880247
+      },
+      "Atomberg": {
+        "mention_share": 26.67,
+        "engagement_share": 67.58,
+        "positive_sentiment_share": 3.06,
+        "composite_sov": 35.95,
+        "total_mentions": 8,
+        "total_engagement": 5758247
+      },
+      "Orient": {
+        "mention_share": 20.0,
+        "engagement_share": 12.47,
+        "positive_sentiment_share": 34.44,
+        "composite_sov": 21.32,
+        "total_mentions": 6,
+        "total_engagement": 1062722
+      },
+      "Usha": {
+        "mention_share": 6.67,
+        "engagement_share": 3.44,
+        "positive_sentiment_share": 100.0,
+        "composite_sov": 33.38,
+        "total_mentions": 2,
+        "total_engagement": 293511
+      },
+      "Bajaj": {
+        "mention_share": 3.33,
+        "engagement_share": 2.98,
+        "positive_sentiment_share": 100.0,
+        "composite_sov": 32.19,
+        "total_mentions": 1,
+        "total_engagement": 254000
+      }
+    },
+    "best ceiling fan 2025": {
+      "Havells": {
+        "mention_share": 48.0,
+        "engagement_share": 55.59,
+        "positive_sentiment_share": 28.25,
+        "composite_sov": 45.11,
+        "total_mentions": 12,
+        "total_engagement": 2664742
+      },
+      "Atomberg": {
+        "mention_share": 48.0,
+        "engagement_share": 39.62,
+        "positive_sentiment_share": 32.41,
+        "composite_sov": 39.97,
+        "total_mentions": 12,
+        "total_engagement": 1899056
+      },
+      "Crompton": {
+        "mention_share": 56.0,
+        "engagement_share": 60.56,
+        "positive_sentiment_share": 38.08,
+        "composite_sov": 52.45,
+        "total_mentions": 14,
+        "total_engagement": 2902835
+      },
+      "Bajaj": {
+        "mention_share": 20.0,
+        "engagement_share": 26.35,
+        "positive_sentiment_share": 46.84,
+        "composite_sov": 30.59,
+        "total_mentions": 5,
+        "total_engagement": 1262972
+      },
+      "Orient": {
+        "mention_share": 64.0,
+        "engagement_share": 54.59,
+        "positive_sentiment_share": 44.6,
+        "composite_sov": 54.41,
+        "total_mentions": 16,
+        "total_engagement": 2616624
+      },
+      "Usha": {
+        "mention_share": 12.0,
+        "engagement_share": 13.92,
+        "positive_sentiment_share": 1.82,
+        "composite_sov": 9.71,
+        "total_mentions": 3,
+        "total_engagement": 667380
+      }
+    },
+    "Atomberg fan review": {
+      "Atomberg": {
+        "mention_share": 100.0,
+        "engagement_share": 100.0,
+        "positive_sentiment_share": 11.97,
+        "composite_sov": 73.59,
+        "total_mentions": 30,
+        "total_engagement": 14850945
+      },
+      "Crompton": {
+        "mention_share": 13.33,
+        "engagement_share": 3.83,
+        "positive_sentiment_share": 0.0,
+        "composite_sov": 5.53,
+        "total_mentions": 4,
+        "total_engagement": 568830
+      },
+      "Havells": {
+        "mention_share": 20.0,
+        "engagement_share": 4.18,
+        "positive_sentiment_share": 2.46,
+        "composite_sov": 8.41,
+        "total_mentions": 6,
+        "total_engagement": 620925
+      },
+      "Bajaj": {
+        "mention_share": 3.33,
+        "engagement_share": 0.63,
+        "positive_sentiment_share": 100.0,
+        "composite_sov": 31.25,
+        "total_mentions": 1,
+        "total_engagement": 93603
+      },
+      "Orient": {
+        "mention_share": 13.33,
+        "engagement_share": 3.77,
+        "positive_sentiment_share": 0.0,
+        "composite_sov": 5.51,
+        "total_mentions": 4,
+        "total_engagement": 559156
+      },
+      "Usha": {
+        "mention_share": 3.33,
+        "engagement_share": 1.19,
+        "positive_sentiment_share": 0.0,
+        "composite_sov": 1.48,
+        "total_mentions": 1,
+        "total_engagement": 176941
+      }
+    }
+  },
+  "aggregated_results": {
+    "Atomberg": {
+      "composite_sov": 48.86666666666667,
+      "mention_share": 50.778333333333336,
+      "engagement_share": 68.92,
+      "positive_sentiment_share": 20.216666666666665
+    },
+    "Orient": {
+      "composite_sov": 21.896666666666665,
+      "mention_share": 23.44333333333333,
+      "engagement_share": 13.88,
+      "positive_sentiment_share": 31.03833333333333
+    },
+    "Havells": {
+      "composite_sov": 26.039999999999996,
+      "mention_share": 20.776666666666667,
+      "engagement_share": 17.18166666666667,
+      "positive_sentiment_share": 43.115
+    },
+    "Usha": {
+      "composite_sov": 8.795,
+      "mention_share": 5.331666666666667,
+      "engagement_share": 5.258333333333334,
+      "positive_sentiment_share": 16.97
+    },
+    "Crompton": {
+      "composite_sov": 21.770000000000003,
+      "mention_share": 24.534,
+      "engagement_share": 27.456,
+      "positive_sentiment_share": 11.422
+    },
+    "Bajaj": {
+      "composite_sov": 27.9675,
+      "mention_share": 9.165,
+      "engagement_share": 10.92,
+      "positive_sentiment_share": 69.5025
+    }
+  }
+}
